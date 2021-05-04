@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.eb8e5fd7.chunk.js",
+    "main.js.map": "/static/js/main.eb8e5fd7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6868eff0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6868eff0.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.6259e06e.chunk.js": "/static/js/2.6259e06e.chunk.js",
+    "static/js/2.6259e06e.chunk.js.map": "/static/js/2.6259e06e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6259e06e.chunk.js.LICENSE.txt": "/static/js/2.6259e06e.chunk.js.LICENSE.txt",
+    "static/media/FinishLogo.57cc43a7.svg": "/static/media/FinishLogo.57cc43a7.svg",
+    "static/media/Logo.53b4b649.svg": "/static/media/Logo.53b4b649.svg",
+    "static/media/Tick.a6a70e1e.svg": "/static/media/Tick.a6a70e1e.svg",
+    "static/media/addict.951a4995.png": "/static/media/addict.951a4995.png",
+    "static/media/counsel.af888aba.png": "/static/media/counsel.af888aba.png",
+    "static/media/hero.59f384aa.png": "/static/media/hero.59f384aa.png",
+    "static/media/mindfuliving.797609f6.svg": "/static/media/mindfuliving.797609f6.svg",
+    "static/media/personal.3a8206bc.svg": "/static/media/personal.3a8206bc.svg",
+    "static/media/private.4d931c2b.svg": "/static/media/private.4d931c2b.svg",
+    "static/media/profile.cd4ec506.png": "/static/media/profile.cd4ec506.png",
+    "static/media/regard.e1c7d940.svg": "/static/media/regard.e1c7d940.svg",
+    "static/media/respect.3bffac50.svg": "/static/media/respect.3bffac50.svg",
+    "static/media/safe.f82401a1.svg": "/static/media/safe.f82401a1.svg",
+    "static/media/school.b4d8fe0e.png": "/static/media/school.b4d8fe0e.png",
+    "static/media/smallhero.52c2353f.png": "/static/media/smallhero.52c2353f.png",
+    "static/media/strength.191abad4.svg": "/static/media/strength.191abad4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6868eff0.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.6259e06e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.eb8e5fd7.chunk.js"
+  ]
+}
